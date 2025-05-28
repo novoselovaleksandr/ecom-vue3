@@ -37,3 +37,6 @@ npm run build
 ```sh
 npm run lint
 ```
+
+В проекте используются:
+ui-kit primevue https://primevue.org/uikit/
