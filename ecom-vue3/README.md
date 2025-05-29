@@ -39,4 +39,9 @@ npm run lint
 ```
 
 В проекте используются:
-ui-kit primevue https://primevue.org/uikit/
+* Vue3
+* TypeScript
+* Vite
+* ui-kit primevue https://primevue.org/uikit/
+* Tailwind https://tailwindcss.com/
+
