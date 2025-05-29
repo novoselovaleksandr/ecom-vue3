@@ -10,6 +10,8 @@ import './assets/main.css'
     </h1>
   </header>
 
+  <vue-feather type="feather"></vue-feather>
+
   <RouterView />
 </template>
 

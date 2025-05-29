@@ -44,4 +44,6 @@ npm run lint
 * Vite
 * ui-kit primevue https://primevue.org/uikit/
 * Tailwind https://tailwindcss.com/
+* Иконки vue-feather https://github.com/fengyuanchen/vue-feather
+* Axios
 
