@@ -7,7 +7,7 @@ export function getProducts() {
     })
 }
 
-export function getProduct(id: string) {
+export function getProduct(id: number) {
     return request({
         url: `/products/${id}`,
         method: 'get'
