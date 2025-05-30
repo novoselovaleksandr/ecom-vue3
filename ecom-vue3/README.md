@@ -41,6 +41,7 @@ npm run lint
 В проекте используются:
 * Vue3
 * TypeScript
+* Vue Router
 * Vite
 * ui-kit primevue https://primevue.org/uikit/
 * Tailwind https://tailwindcss.com/
