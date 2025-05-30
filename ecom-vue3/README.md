@@ -47,4 +47,5 @@ npm run lint
 * Tailwind https://tailwindcss.com/
 * Иконки vue-feather https://github.com/fengyuanchen/vue-feather
 * Axios
+* для API используется https://fakestoreapi.in/docs
 
